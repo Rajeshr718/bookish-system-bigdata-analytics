@@ -1,10 +1,11 @@
 # bookish-system-bigdata-analytics
 
-Real-Time Telecom Revenue Assurance using Big Data and Data visualization  
+## Real-Time Telecom Revenue Assurance using Big Data and Data visualization  
 
-Seamless real-time & batch processing of telecom transaction records
+## Seamless real-time & batch processing of telecom transaction records
 
-Abstract— Telecommunication industry has seen phenomenal
+###### Abstract
+Telecommunication industry has seen phenomenal
 growth and intense competition in recent times. Basic connectivity
 has been commoditized and service providers need to provide
 personalized and differentiated services to stay competitive and
@@ -34,7 +35,7 @@ campaign management and in other sectors, like Utilities, Banking
 etc., which can benefit from real-time and seamless dual mode
 processing of account transaction records.
 
-PROBLEM STATEMENT
+###### PROBLEM STATEMENT
 The reconciliation component of Telecommunication
 Revenue Assurance system was taken as an example for
 exploring different approaches to speed up high volume CDR
